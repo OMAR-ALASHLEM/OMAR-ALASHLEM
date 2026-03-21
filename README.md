@@ -2,8 +2,8 @@
 <p>I'm an IT student and aspiring software developer based in  Misurata, Libya. I am currently honing my skills in software engineering and cybersecurity with <strong>Programming Advices</strong>. I have a strong focus on practical logic, building robust relational database architectures, and developing data-driven desktop applications.</p>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&logoColor=white&link=https://github.com/YOUR_GITHUB_USERNAME" alt="GitHub Badge"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" alt="LinkedIn Badge"></a>
+  <a href="https://github.com/OMAR-ALASHLEM"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&logoColor=white&link=https://github.com/YOUR_GITHUB_USERNAME" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/ow3301/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" alt="LinkedIn Badge"></a>
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
