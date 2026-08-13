@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
 <h1>👋 Omar Al-Ashlam</h1>
-<h3>🚀 IT Student | 💻 Aspiring Software Developer | 🛡️ Cybersecurity Enthusiast</h3>
+<h3>🚀 IT Student | 💻 Aspiring Software Developer 
 
 <p>
 I am a self-directed student at <strong>Programming Advices</strong>, based in Misurata, Libya.<br>
